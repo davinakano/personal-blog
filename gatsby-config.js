@@ -4,7 +4,15 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitle: `Davi Nakano`,
+    siteTitleAlt: `Davi Nakano's Blog`,
+    externalLinks: [{
+      name: 'Twitter',
+      url: 'https://twitter.com/davinotdavid',
+    },{
+      name: 'Instagram',
+      url: 'https://www.instagram.com/davinotdavid/',
+    }],
     navigation: [
       {
         title: `Blog`,
