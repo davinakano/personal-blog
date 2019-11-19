@@ -12,6 +12,9 @@ module.exports = {
     },{
       name: 'Instagram',
       url: 'https://www.instagram.com/davinotdavid/',
+    },{
+      name: 'GitHub',
+      url: 'https://github.com/davinakano',
     }],
     navigation: [
       {
